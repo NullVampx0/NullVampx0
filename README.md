@@ -19,14 +19,14 @@ class NullVampx0:
     def __init__(self):
         self.name       = "NullVampx0"
         self.alias      = "🧛 The Null Vampire"
-        self.passion    = ["Cybersecurity", "Automation", "OSINT"]
-        self.languages  = ["Python", "Java"]
-        self.learning   = ["Network Security", "Ethical Hacking", "Linux"]
-        self.mindset    = "Think differently. Build differently."
+        self.status     = "Learning & Building"
+        self.interests  = ["Cybersecurity", "Automation", "Python"]
+        self.currently  = "Exploring Cybersecurity from scratch"
+        self.mindset    = "I don't wait to learn — I build to learn."
         self.location   = "India 🇮🇳"
 
-    def approach(self):
-        return "If it can be automated, I'll automate it."
+    def goal(self):
+        return "Understand how things work. Then break them. Then fix them."
 ```
 
 ---
@@ -68,7 +68,7 @@ class NullVampx0:
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
 ```
 
-![NullVampx0's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NullVampx0&bg_color=0d0d0d&color=ff3333&line=8b0000&point=ff3333&area=true&hide_border=true&radius=8)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NullVampx0&bg_color=0d0d0d&color=ff3333&line=8b0000&point=ff3333&area=true&hide_border=true&radius=8" />
 
 ```
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
@@ -82,8 +82,14 @@ class NullVampx0:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NullVampx0&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullVampx0&layout=compact&theme=tokyonight&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NullVampx0&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d0d0d&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullVampx0&layout=compact&theme=tokyonight&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d0d0d" width="38%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=NullVampx0&theme=tokyonight&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&background=0d0d0d&stroke=8b0000" width="60%" />
 
 </div>
 
