@@ -52,7 +52,9 @@ class NullVampx0:
 
 <div align="center">
 
-[![netflix-otp-bot](https://github-readme-stats.vercel.app/api/pin/?username=NullVampx0&repo=netflix-otp-bot&theme=tokyonight&hide_border=true&title_color=ff3333&icon_color=ff3333)](https://github.com/NullVampx0/netflix-otp-bot)
+| Project | Description | Tech |
+|---|---|---|
+| [🎬 netflix-otp-bot](https://github.com/NullVampx0/netflix-otp-bot) | Telegram bot that fetches Netflix OTP codes from Gmail with access control | Python · Telegram API · Gmail API |
 
 </div>
 
@@ -66,7 +68,7 @@ class NullVampx0:
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NullVampx0&bg_color=0d0d0d&color=ff3333&line=8b0000&point=ff3333&area=true&hide_border=true" width="95%" />
+![NullVampx0's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NullVampx0&bg_color=0d0d0d&color=ff3333&line=8b0000&point=ff3333&area=true&hide_border=true&radius=8)
 
 ```
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
@@ -80,8 +82,8 @@ class NullVampx0:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NullVampx0&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d0d0d" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullVampx0&layout=compact&theme=tokyonight&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d0d0d" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NullVampx0&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullVampx0&layout=compact&theme=tokyonight&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d0d0d&cache_seconds=1800" width="38%" />
 
 </div>
 
