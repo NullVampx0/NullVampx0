@@ -6,13 +6,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=I+don't+just+use+tools+—+I+build+them.;Cybersecurity+%7C+Automation+%7C+OSINT;Thinking+differently+since+day+one.;The+quieter+you+become%2C+the+more+you+hear.;🧛+NullVampx0+has+entered+the+chat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=I+don't+just+use+tools+%E2%80%94+I+build+them.;Cybersecurity+%7C+Automation+%7C+OSINT;Thinking+differently+since+day+one.;The+quieter+you+become%2C+the+more+you+hear.;%F0%9F%A7%9B+NullVampx0+has+entered+the+chat." alt="Typing SVG" />
 
 </div>
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/l0MYAs5E2oIDUp6aA/giphy.gif" width="250" />
 
 ### 🧠 About Me
 
@@ -20,18 +18,16 @@
 class NullVampx0:
     def __init__(self):
         self.name       = "NullVampx0"
+        self.alias      = "🧛 The Null Vampire"
         self.passion    = ["Cybersecurity", "Automation", "OSINT"]
         self.languages  = ["Python", "Java"]
         self.learning   = ["Network Security", "Ethical Hacking", "Linux"]
         self.mindset    = "Think differently. Build differently."
         self.location   = "India 🇮🇳"
-        self.alias      = "🧛 The Null Vampire"
 
     def approach(self):
         return "If it can be automated, I'll automate it."
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -66,8 +62,6 @@ class NullVampx0:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKDt7pLvYjpCFmE/giphy.gif" width="100" />
-
 ```
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
 ```
@@ -100,8 +94,6 @@ class NullVampx0:
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/26BRzQS5HXcEWM7du/giphy.gif" width="120" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
 
