@@ -14,10 +14,6 @@
 
 ### 🧛 About Me
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=🦇+Emerged+from+the+darkness...;🩸+Feeds+on+knowledge+%26+code...;🌑+Learning+to+haunt+the+digital+world...;👁️+I+hunt+to+learn..." alt="Typing SVG" />
-</div>
-
 ```python
 class NullVampx0:
     """
