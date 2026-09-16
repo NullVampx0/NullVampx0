@@ -12,21 +12,30 @@
 
 ---
 
-### 🧠 About Me
+### 🧛 About Me
 
 ```python
 class NullVampx0:
-    def __init__(self):
-        self.name       = "NullVampx0"
-        self.alias      = "🧛 The Null Vampire"
-        self.status     = "Learning & Building"
-        self.interests  = ["Cybersecurity", "Automation", "Python"]
-        self.currently  = "Exploring Cybersecurity from scratch"
-        self.mindset    = "I don't wait to learn — I build to learn."
-        self.location   = "India 🇮🇳"
+    """
+    🦇 Emerged from the darkness of curiosity.
+    🩸 Feeds on knowledge. Drains systems of their secrets.
+    """
 
-    def goal(self):
-        return "Understand how things work. Then break them. Then fix them."
+    def __init__(self):
+        self.name        = "NullVampx0"
+        self.alias       = "🧛 The Null Vampire"
+        self.origin      = "Risen from India 🇮🇳 at midnight"
+        self.hunger      = ["Cybersecurity", "Automation", "Python"]
+        self.prey        = "Systems, Networks & Hidden Vulnerabilities"
+        self.weakness    = "Sleep (who needs it?)"
+        self.currently   = "🌑 Learning to haunt the digital world"
+        self.mindset     = "I don't wait to learn — I hunt to learn."
+
+    def feed(self):
+        return "🩸 Drain the system. Understand it. Own it."
+
+    def vanish(self):
+        return "🦇 *disappears into the dark*"
 ```
 
 ---
