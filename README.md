@@ -82,13 +82,6 @@ class NullVampx0:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NullVampx0&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d0d0d&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullVampx0&layout=compact&theme=tokyonight&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d0d0d" width="38%" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=NullVampx0&theme=tokyonight&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&background=0d0d0d&stroke=8b0000" width="60%" />
 
 </div>
