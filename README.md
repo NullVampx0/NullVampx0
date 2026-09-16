@@ -68,7 +68,7 @@ class NullVampx0:
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NullVampx0&bg_color=0d0d0d&color=ff3333&line=8b0000&point=ff3333&area=true&hide_border=true&radius=8" />
+<img src="https://ghchart.rshah.org/ff3333/NullVampx0" alt="NullVampx0 Github Chart" width="95%" />
 
 ```
 🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇  🦇
@@ -90,12 +90,6 @@ class NullVampx0:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=NullVampx0&theme=tokyonight&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&background=0d0d0d&stroke=8b0000" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NullVampx0&theme=tokyonight&hide_border=true&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&background=0d0d0d&stroke=8b0000" width="60%" />
 
 </div>
 
