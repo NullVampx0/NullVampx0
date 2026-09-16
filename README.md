@@ -62,6 +62,7 @@ class NullVampx0:
 | Project | Description | Tech |
 |---|---|---|
 | [🎬 netflix-otp-bot](https://github.com/NullVampx0/netflix-otp-bot) | Telegram bot that fetches Netflix OTP codes from Gmail with access control | Python · Telegram API · Gmail API |
+| [💬 whatsapp-status-manager](https://github.com/NullVampx0/whatsapp-status-manager) | WhatsApp auto-responder for Windows — set status (sleeping, busy, driving) and auto-reply to messages | Python · WhatsApp · Automation |
 
 </div>
 
