@@ -15,10 +15,30 @@
 ### 🧛 About Me
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=FF3333&background=0D0D0D00&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=280&lines=class+NullVampx0%3A;++++%22%22%22;++++🦇+Emerged+from+the+darkness+of+curiosity.;++++🩸+Feeds+on+knowledge.+Drains+systems+of+secrets.;++++%22%22%22;++++self.alias+++++=+%22🧛+The+Null+Vampire%22;++++self.origin++++=+%22Risen+from+India+🇮🇳+at+midnight%22;++++self.hunger++++=+%5B%22Cybersecurity%22%2C+%22Automation%22%2C+%22Python%22%5D;++++self.prey+++++++=+%22Systems%2C+Networks+%26+Vulnerabilities%22;++++self.weakness++=+%22Sleep+(who+needs+it%3F)%22;++++self.mindset+++=+%22I+hunt+to+learn.%22;++++def+feed(self)%3A;++++++++return+%22🩸+Drain.+Understand.+Own.%22" alt="Vampire About Me" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=600&lines=🦇+Emerged+from+the+darkness...;🩸+Feeds+on+knowledge+%26+code...;🌑+Learning+to+haunt+the+digital+world...;👁️+I+hunt+to+learn..." alt="Typing SVG" />
 </div>
+
+```python
+class NullVampx0:
+    """
+    🦇 Emerged from the darkness of curiosity.
+    🩸 Feeds on knowledge. Drains systems of their secrets.
+    """
+    def __init__(self):
+        self.alias       = "🧛 The Null Vampire"
+        self.origin      = "Risen from India 🇮🇳 at midnight"
+        self.hunger      = ["Cybersecurity", "Automation", "Python"]
+        self.prey        = "Systems, Networks & Hidden Vulnerabilities"
+        self.weakness    = "Sleep (who needs it?)"
+        self.currently   = "🌑 Learning to haunt the digital world"
+        self.mindset     = "I don't wait to learn — I hunt to learn."
+
+    def feed(self):
+        return "🩸 Drain the system. Understand it. Own it."
+
+    def vanish(self):
+        return "🦇 *disappears into the dark*"
+```
 
 ---
 
